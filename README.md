@@ -4,6 +4,10 @@ Project Overview
 
 This project analyzes student commute data to understand travel time, transportation costs, transport modes, and common commute bottlenecks.
 
+## Dashboard Preview
+
+![Student Commute Analysis Dashboard](dashboard.png)
+
 Objectives
 
 - Compare average travel time across transport modes.
